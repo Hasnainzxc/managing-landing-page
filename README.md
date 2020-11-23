@@ -1,2 +1,2 @@
 # mananging landing page
- responsvie lanfing page for managment
+ responsvie landing page for managment websites
